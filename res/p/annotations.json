@@ -1,0 +1,425 @@
+{
+    "0": [
+        "adventure"
+    ],
+    "1": [
+        "baby shower"
+    ],
+    "2": [
+        "baseball"
+    ],
+    "3": [
+        "basketball"
+    ],
+    "4": [
+        "bbq"
+    ],
+    "5": [
+        "birthday",
+        "bday"
+    ],
+    "6": [
+        "beach",
+        "beach music",
+        "beach vibes",
+        "beachin",
+        "beachy"
+    ],
+    "7": [
+        "bed",
+        "bedtime"
+    ],
+    "8": [
+        "boat"
+    ],
+    "9": [
+        "bus"
+    ],
+    "10": [
+        "camping",
+        "camp"
+    ],
+    "11": [
+        "car",
+        "car jams",
+        "car jamz",
+        "car music",
+        "car playlist",
+        "car ride",
+        "car rides",
+        "car songs",
+        "car tunes"
+    ],
+    "12": [
+        "cardio"
+    ],
+    "13": [
+        "ceremony"
+    ],
+    "14": [
+        "cleaning"
+    ],
+    "15": [
+        "club"
+    ],
+    "16": [
+        "cocktail hour"
+    ],
+    "17": [
+        "coffee",
+        "coffee shop"
+    ],
+    "18": [
+        "college"
+    ],
+    "19": [
+        "cooking"
+    ],
+    "20": [
+        "crossfit"
+    ],
+    "21": [
+        "cruise",
+        "cruisin",
+        "cruisin'",
+        "cruising"
+    ],
+    "22": [
+        "dance",
+        "dance party",
+        "dance songs",
+        "dancehall",
+        "dancing"
+    ],
+    "23": [
+        "dinner",
+        "dinner music",
+        "dinner party"
+    ],
+    "24": [
+        "drive",
+        "drivin",
+        "driving",
+        "driving music"
+    ],
+    "25": [
+        "engagement party"
+    ],
+    "26": [
+        "exercise"
+    ],
+    "27": [
+        "flight"
+    ],
+    "28": [
+        "focus"
+    ],
+    "29": [
+        "football"
+    ],
+    "30": [
+        "game day",
+        "gameday",
+        "gaming"
+    ],
+    "31": [
+        "getting ready"
+    ],
+    "32": [
+        "going out"
+    ],
+    "33": [
+        "grad party",
+        "graduation",
+        "graduation party"
+    ],
+    "34": [
+        "gym"
+    ],
+    "35": [
+        "halloween party"
+    ],
+    "36": [
+        "hockey"
+    ],
+    "37": [
+        "home"
+    ],
+    "38": [
+        "homework",
+        "hw"
+    ],
+    "39": [
+        "house party"
+    ],
+    "40": [
+        "island"
+    ],
+    "41": [
+        "lake"
+    ],
+    "42": [
+        "lift",
+        "lifting"
+    ],
+    "43": [
+        "marathon",
+        "half marathon"
+    ],
+    "44": [
+        "meditation"
+    ],
+    "45": [
+        "motivation"
+    ],
+    "46": [
+        "partay",
+        "party",
+        "party bus",
+        "party mix",
+        "party music",
+        "party playlist",
+        "party songs",
+        "party time",
+        "fiesta"
+    ],
+    "47": [
+        "plane",
+        "airplane"
+    ],
+    "48": [
+        "play"
+    ],
+    "49": [
+        "pool",
+        "pool party",
+        "poolside"
+    ],
+    "50": [
+        "practice"
+    ],
+    "51": [
+        "pre game",
+        "pre-game",
+        "pregame"
+    ],
+    "52": [
+        "prom"
+    ],
+    "53": [
+        "quiet time"
+    ],
+    "54": [
+        "reception"
+    ],
+    "55": [
+        "rehearsal dinner"
+    ],
+    "56": [
+        "ride",
+        "riding"
+    ],
+    "57": [
+        "road",
+        "road trip",
+        "road trippin",
+        "road trippin'",
+        "roadtrip",
+        "roadtrippin",
+        "on the road"
+    ],
+    "58": [
+        "run",
+        "run run run",
+        "running",
+        "running mix",
+        "running playlist",
+        "boostyourrun"
+    ],
+    "59": [
+        "school"
+    ],
+    "60": [
+        "sex sexy",
+        "sexy time"
+    ],
+    "61": [
+        "shower",
+        "shower jams",
+        "shower playlist",
+        "shower songs"
+    ],
+    "62": [
+        "sing",
+        "sing along"
+    ],
+    "63": [
+        "ski",
+        "skiing"
+    ],
+    "64": [
+        "sleep",
+        "sleepy time",
+        "zzz",
+        "sleepy"
+    ],
+    "65": [
+        "snowboarding"
+    ],
+    "66": [
+        "soccer"
+    ],
+    "67": [
+        "softball"
+    ],
+    "68": [
+        "study",
+        "study music",
+        "study time",
+        "studying"
+    ],
+    "69": [
+        "thinking"
+    ],
+    "70": [
+        "travel"
+    ],
+    "71": [
+        "vacation"
+    ],
+    "72": [
+        "volleyball"
+    ],
+    "73": [
+        "wake up"
+    ],
+    "74": [
+        "wanderlust"
+    ],
+    "75": [
+        "warm up"
+    ],
+    "76": [
+        "wedding",
+        "wedding ceremony",
+        "wedding dance",
+        "wedding dinner",
+        "wedding music",
+        "wedding playlist",
+        "wedding reception",
+        "wedding songs"
+    ],
+    "77": [
+        "work",
+        "work music",
+        "work playlist"
+    ],
+    "78": [
+        "work out",
+        "working out",
+        "workout workout 2",
+        "workout mix",
+        "workout music",
+        "workout playlist",
+        "my high-intensity workout"
+    ],
+    "79": [
+        "writing"
+    ],
+    "80": [
+        "yacht rock"
+    ],
+    "81": [
+        "yoga"
+    ],
+    "82": [
+        "zen"
+    ],
+    "83": [
+        "church"
+    ],
+    "84": [
+        "calm",
+        "calm down",
+        "calming"
+    ],
+    "85": [
+        "cry"
+    ],
+    "86": [
+        "laid back",
+        "lax relax",
+        "relaxation",
+        "relaxing"
+    ],
+    "87": [
+        "smoke"
+    ],
+    "88": [
+        "christmas",
+        "christmas jams",
+        "christmas music",
+        "christmas playlist",
+        "christmas time",
+        "christmas:Christmas_tree:",
+        "xmas",
+        "christmas songs",
+        "christmas party"
+    ],
+    "89": [
+        "friday"
+    ],
+    "90": [
+        "good morning",
+        "morning",
+        "mornings"
+    ],
+    "91": [
+        "halloween"
+    ],
+    "92": [
+        "holiday"
+    ],
+    "93": [
+        "new years",
+        "nye"
+    ],
+    "94": [
+        "summer",
+        "summer chill",
+        "summer jams",
+        "summer jamz",
+        "summer playlist",
+        "summer songs",
+        "summer vibes",
+        "summertime"
+    ],
+    "95": [
+        "sunday",
+        "sunday morning"
+    ],
+    "96": [
+        "thanksgiving"
+    ],
+    "97": [
+        "weekend",
+        "the weeknd"
+    ],
+    "98": [
+        "winter"
+    ],
+    "99": [
+        "praise",
+        "praise & worship",
+        "praise and worship",
+        "worship",
+        "worship music",
+        "worship songs"
+    ],
+    "100": [
+        "prayer"
+    ],
+    "101": [
+        "kids"
+    ]
+}

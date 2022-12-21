@@ -1,0 +1,25 @@
+name: env
+dependencies:
+  - python=3.9.12
+  - pip:
+    - numpy
+    - pandas
+    - spotipy
+    - tqdm
+    - nltk
+    - scipy
+    - abydos
+    - matplotlib
+    - networkx
+    - lxml
+    - sklearn
+    - torch
+    - musicbrainzngs
+    - librosa
+    - pydub
+    - soundfile
+    - beautifulsoup4
+    - pykg2vec
+    - implicit
+    - samplerate
+    - ax-platform
