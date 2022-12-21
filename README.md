@@ -1,6 +1,6 @@
 # Playlist context prediction
 
-Materials supporting the ECIR '21 paper: "Predicting the Listening Contexts of Music Playlists Using Knowledge Graphs", by [Giovanni Gabbolini](https://giovannigabbolini.github.io) and [Derek Bridge](http://www.cs.ucc.ie/~dgb/).
+Materials supporting the ECIR '23 paper: "Predicting the Listening Contexts of Music Playlists Using Knowledge Graphs", by [Giovanni Gabbolini](https://giovannigabbolini.github.io) and [Derek Bridge](http://www.cs.ucc.ie/~dgb/).
 
 ## Setup
 - Create conda env from `environment.yml`, and activate it.
